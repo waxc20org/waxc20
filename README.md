@@ -24,7 +24,7 @@ https://wax.bloks.io/transaction/2c6299008d58c769a033b2fc2ce4074699d51a9777f6110
 ## Idea for developing indexer
 1. Recording the block number of deploy inscription.
 2. Get all transactions of eosio address.
-3. Use the FULL NODE HTTP API to get the `from`,`to`,`data` field of each waxi, match all mint inscriptions.
+3. Use the FULL NODE HTTP API to get the `from`,`to`,`memo` field of each waxi, match all mint inscriptions.
 
 ## Indexer(TBA)
 
