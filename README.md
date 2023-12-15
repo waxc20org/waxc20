@@ -4,7 +4,7 @@ TRC20 Protocol base on TRON blockchain writing the string into the memo field of
 Official Twitter:[@WAXC_20_WAXI](https://twitter.com/WAXC_20_WAXI)
 
 ## Token Economic
- - Token: WACI
+ - Token: WAXI
  - Supply: 2100000000
  - limit: 1000
 
