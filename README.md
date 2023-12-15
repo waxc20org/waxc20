@@ -18,7 +18,7 @@ https://wax.bloks.io/transaction/2c6299008d58c769a033b2fc2ce4074699d51a9777f6110
 
 ## Mint WAXI with mycloudwallet.com
  - Amount: 0.00000001 WAX
- - Adress: eosio
+ - Address: eosio
  - Memo: data:,{"p":"waxc-20","op":"mint","tick":"waxi","amt":"1000"}
 
 ## Idea for developing indexer
