@@ -1,5 +1,5 @@
 # WAXC20 Protocol
-TRC20 Protocol base on TRON blockchain writing the string into the memo field of the transaction to achieve this.
+WAXC20 Protocol base on WAX blockchain writing the string into the memo field of the transaction to achieve this.
 
 Official Twitter:[@WAXC_20_WAXI](https://twitter.com/WAXC_20_WAXI)
 
